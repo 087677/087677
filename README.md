@@ -1,7 +1,6 @@
 ## Hi
 
->Previously I have completed a T level course in Digital Software Development
->I am currently studying software engineering at university
+- I am currently studying software engineering at university
 
 
 <!--
