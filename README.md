@@ -1,5 +1,9 @@
 ## Hi
 
+>Previously I have completed a T level course in Digital Software Development
+>I am currently studying software engineering at university
+
+
 <!--
 **087677/087677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
